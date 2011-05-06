@@ -1,0 +1,8 @@
+*.o
+testexe
+
+# old skool
+.svn
+
+# osx noise
+.DS_Store
